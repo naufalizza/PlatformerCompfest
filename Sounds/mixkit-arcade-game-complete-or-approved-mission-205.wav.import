@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/mixkit-arcade-game-complete-or-approved-mission-205.wav-49a92e1613cc4074f0210da7ada8643c.sample"
+
+[deps]
+
+source_file="res://Sounds/mixkit-arcade-game-complete-or-approved-mission-205.wav"
+dest_files=[ "res://.import/mixkit-arcade-game-complete-or-approved-mission-205.wav-49a92e1613cc4074f0210da7ada8643c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

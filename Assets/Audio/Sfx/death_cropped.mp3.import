@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/death_cropped.mp3-b56c2a0e1c5f99413cce2484abb51bc0.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/Sfx/death_cropped.mp3"
+dest_files=[ "res://.import/death_cropped.mp3-b56c2a0e1c5f99413cce2484abb51bc0.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/img/better_brick.png" type="Texture" id=1]
+
+[node name="ParallaxBackground" type="ParallaxBackground"]
+scroll_limit_end = Vector2( 32, 32 )
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+motion_mirroring = Vector2( 1280, 1280 )
+
+[node name="Sprite" type="Sprite" parent="ParallaxLayer"]
+modulate = Color( 1, 1, 1, 0.439216 )
+texture = ExtResource( 1 )

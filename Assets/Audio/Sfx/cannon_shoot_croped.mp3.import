@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cannon_shoot_croped.mp3-4f0715fec158168de262fe2116d1c4e4.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/Sfx/cannon_shoot_croped.mp3"
+dest_files=[ "res://.import/cannon_shoot_croped.mp3-4f0715fec158168de262fe2116d1c4e4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
